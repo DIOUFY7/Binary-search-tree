@@ -2,7 +2,7 @@
 
 #Mathematics and Computer Science M2 Track, UPEC & UGE
 
-#Basics Computer Science course
+#Basics Computer Science: Algorithmic data structures course
 
 
 # Binary-search-tree
